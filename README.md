@@ -6,7 +6,7 @@ I'm currently a front-end software engineer at Voltz based in Ponta Grossa, Para
   <a href="https://instagram.com/madusfx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mariaesfreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mariaesfreitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://open.spotify.com/user/madusfx?si=324d956709584fd1" target="_blank"><img src="https://img.shields.io/badge/-@dutradotdev-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/12148086025?si=cWkq24h1SWiHvDbCteA-uw" alt="Spotify Badge"></a> 
+  <a href="https://open.spotify.com/user/madusfx?si=324d956709584fd1" target="_blank"><img src="https://img.shields.io/badge/-@madusfx-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/madusfx?si=324d956709584fd1" alt="Spotify Badge"></a> 
 </div>
 
 ### A Few Quick Facts
