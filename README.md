@@ -1,4 +1,6 @@
-### Oi! Eu sou a Maria Eduarda.
+### Hey! I'm Maria Eduarda.
+
+I'm currently a front-end software engineer at Voltz based in Ponta Grossa, Paraná. I am studying more about ReactJS and NodeJS and doing a computacion course at UTFPR.
 
 <div>
   <a href="https://github.com/madusfx">
