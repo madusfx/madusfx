@@ -12,8 +12,8 @@ I'm currently a front-end software engineer at Voltz based in Ponta Grossa, Para
 
 <ul>
   <li>Currently working w/ ReactJS, NodeJS and GraphQL.</li>
-  <li>I'm actually in a junior level in front-end development</li>
-  <li>I am in the fourth period of a technologist course in systems analysis and development at college</li>
+  <li>I'm actually in a junior level in front-end development.</li>
+  <li>I am in the fourth period of a technologist course in systems analysis and development at college.</li>
 </ul>
 
 ### Some Tools that I Use
@@ -24,6 +24,7 @@ I'm currently a front-end software engineer at Voltz based in Ponta Grossa, Para
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" alt="graphql" width="30" height="30"/>
 </p>
 
 <div>
