@@ -1,6 +1,6 @@
 ### Hey! I'm Maria Eduarda.
 
-I'm currently a front-end software engineer at Voltz based in Ponta Grossa, Paraná. I am studying more about ReactJS and NodeJS and doing a computacion course at UTFPR.
+I'm currently a front-end software engineer at Voltz based in Ponta Grossa, Paraná. I am studying more about ReactJS and NodeJS and doing a computacion course at UTFPR (Federal University of Technology - Paraná).
 
 <div>
   <a href="https://instagram.com/madusfx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
