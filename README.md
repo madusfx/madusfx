@@ -1,9 +1,8 @@
 ### Hey! I'm Maria Eduarda.
 
-I'm currently a front-end software engineer at Voltz based in Ponta Grossa, Paraná. I am studying more about ReactJS and NodeJS and doing a computacion course at UTFPR (Federal University of Technology - Paraná).
+I'm currently a front-end software engineer at Voltz based in Ponta Grossa, Paraná. I am studying more about ReactJS, React Native and NodeJS and doing a computacion course at UTFPR (Federal University of Technology - Paraná).
 
 <div>
-  <a href="https://instagram.com/madusfx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mariaesfreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mariaesfreitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
@@ -11,9 +10,9 @@ I'm currently a front-end software engineer at Voltz based in Ponta Grossa, Para
 ### A Few Quick Facts
 
 <ul>
-  <li>Currently working w/ ReactJS, NodeJS and GraphQL.</li>
+  <li>Currently working w/ ReactJS, React Native, NodeJS and GraphQL.</li>
   <li>I'm actually in a junior level in front-end development.</li>
-  <li>I am in the fourth period of a technologist course in systems analysis and development at college.</li>
+  <li>I am in the fifth period of a technologist course in systems analysis and development at college.</li>
 </ul>
 
 ### Some Tools that I Use
