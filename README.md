@@ -12,7 +12,7 @@ I'm currently a front-end software engineer at Voltz based in Ponta Grossa, Para
 <ul>
   <li>Currently working w/ ReactJS, React Native, NodeJS and GraphQL.</li>
   <li>I'm actually in a junior level in front-end development.</li>
-  <li>I am in the fifth period of a technologist course in systems analysis and development at college.</li>
+  <li>I am in the sixth period of a technologist course in systems analysis and development at college.</li>
 </ul>
 
 ### Some Tools that I Use
