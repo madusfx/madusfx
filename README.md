@@ -32,10 +32,3 @@ I'm currently a front-end software engineer at Voltz based in Ponta Grossa, Para
 </div>
 
 ##
-
-<div> 
-  
-  
-  ![Snake animation](https://github.com/madusfx/madusfx/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
