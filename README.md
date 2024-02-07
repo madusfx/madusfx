@@ -1,6 +1,6 @@
 ### Hey! I'm Maria Eduarda.
 
-I'm currently a front-end software engineer at Voltz based in Ponta Grossa, Paraná. I am studying more about ReactJS, React Native and NodeJS and doing a computacion course at UTFPR (Federal University of Technology - Paraná).
+I'm currently a front-end software engineer. I am studying more about ReactJS with NextJS and NodeJS with NestJS. I'm doing a computacion course at UTFPR (Federal University of Technology - Paraná).
 
 <div>
   <a href = "mailto:mariaesfreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -10,7 +10,7 @@ I'm currently a front-end software engineer at Voltz based in Ponta Grossa, Para
 ### A Few Quick Facts
 
 <ul>
-  <li>Currently working w/ ReactJS, React Native, NodeJS and GraphQL.</li>
+  <li>Currently working w/ ReactJS and NodeJS.</li>
   <li>I'm actually in a junior level in front-end development.</li>
   <li>I am in the sixth period of a technologist course in systems analysis and development at college.</li>
 </ul>
@@ -23,7 +23,6 @@ I'm currently a front-end software engineer at Voltz based in Ponta Grossa, Para
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="30" height="30"/>
 </p>
 
 <div>
